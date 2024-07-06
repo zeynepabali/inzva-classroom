@@ -8,4 +8,5 @@ def mult(x):
 
 def test_answer():
     assert inc(3) == 5
+    print(mult(2))
     assert mult(2) == 4
